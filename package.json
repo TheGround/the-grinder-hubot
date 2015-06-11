@@ -5,8 +5,10 @@
   "author": "Joel Larsson <tilljoel@gmail.com>",
   "description": "A simple helpful grinder",
   "dependencies": {
-    "hubot-maps": "0.0.0",
+    "hubot-slack-google-auth": "0.1.1",
+    "hubot-slack-gcal": "0.1.0",
     "hubot-help": "^0.1.1",
+    "hubot-dropcam": "^1.0",
     "hubot-google-images": "^0.1.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-youtube": "^0.1.2",

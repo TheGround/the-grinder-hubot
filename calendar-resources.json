@@ -1,0 +1,9 @@
+{
+  // Key is the name of the "group" this resource belongs to, used in commands like: 
+  // "hubot what team rooms are available" 
+  "meeting rooms": {
+    // Resource ID                                      // array of aliases for this resource 
+    "theground.se_3834353934323730373534@resource.calendar.google.com": ["SVN Ingvars"]
+  },
+  // ... 
+}
